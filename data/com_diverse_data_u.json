@@ -1,0 +1,402 @@
+[
+    {
+        "input": "List some innovative ways to",
+        "output": ""
+    },
+    {
+        "input": "What are different interpretations of the story behind",
+        "output": ""
+    },
+    {
+        "input": "Imagine a futuristic scenario where",
+        "output": ""
+    },
+    {
+        "input": "Describe a fantasy world with",
+        "output": ""
+    },
+    {
+        "input": "Create a unique recipe that includes",
+        "output": ""
+    },
+    {
+        "input": "Invent a new sport that combines",
+        "output": ""
+    },
+    {
+        "input": "Propose various solutions to the problem of",
+        "output": ""
+    },
+    {
+        "input": "Develop a storyline for a movie involving",
+        "output": ""
+    },
+    {
+        "input": "Design a new educational system focused on",
+        "output": ""
+    },
+    {
+        "input": "Suggest ten different professions of the future related to",
+        "output": ""
+    },
+    {
+        "input": "Explain how life would be different if",
+        "output": ""
+    },
+    {
+        "input": "What are multiple meanings of the phrase",
+        "output": ""
+    },
+    {
+        "input": "Generate names for a fictional planet with",
+        "output": ""
+    },
+    {
+        "input": "Conceptualize a series of art pieces based on",
+        "output": ""
+    },
+    {
+        "input": "What are various cultural interpretations of",
+        "output": ""
+    },
+    {
+        "input": "Discuss possible evolutions of technology like",
+        "output": ""
+    },
+    {
+        "input": "Predict how travel will change with advancements in",
+        "output": ""
+    },
+    {
+        "input": "Envision a world where animals can",
+        "output": ""
+    },
+    {
+        "input": "What if historical events had gone differently, such as",
+        "output": ""
+    },
+    {
+        "input": "Propose different marketing strategies for a product like",
+        "output": ""
+    },
+    {
+        "input": "Create a new holiday that celebrates",
+        "output": ""
+    },
+    {
+        "input": "Develop a concept for a TV show about",
+        "output": ""
+    },
+    {
+        "input": "How might different societies interpret a law about",
+        "output": ""
+    },
+    {
+        "input": "Invent a fictional language with words for",
+        "output": ""
+    },
+    {
+        "input": "Describe unique architectural styles for a building that",
+        "output": ""
+    },
+    {
+        "input": "What are various folk tales involving",
+        "output": ""
+    },
+    {
+        "input": "Imagine you have a superpower to",
+        "output": ""
+    },
+    {
+        "input": "Explain how daily life would be impacted by",
+        "output": ""
+    },
+    {
+        "input": "Propose ten different scientific experiments to explore",
+        "output": ""
+    },
+    {
+        "input": "Create a dialogue between historical figures about",
+        "output": ""
+    },
+    {
+        "input": "What are different ethical perspectives on",
+        "output": ""
+    },
+    {
+        "input": "Write a poem that captures the essence of",
+        "output": ""
+    },
+    {
+        "input": "Invent a new tradition related to",
+        "output": ""
+    },
+    {
+        "input": "Discuss possible future forms of government in a world with",
+        "output": ""
+    },
+    {
+        "input": "Design a game that teaches players about",
+        "output": ""
+    },
+    {
+        "input": "What would various religions say about",
+        "output": ""
+    },
+    {
+        "input": "Create a comedy sketch on the topic of",
+        "output": ""
+    },
+    {
+        "input": "How would different animals adapt to an environment with",
+        "output": ""
+    },
+    {
+        "input": "Write a letter from the perspective of a character living in",
+        "output": ""
+    },
+    {
+        "input": "Propose new scientific theories about the nature of",
+        "output": ""
+    },
+    {
+        "input": "How would education evolve to include subjects like",
+        "output": ""
+    },
+    {
+        "input": "Invent gadgets that could be used in a world where",
+        "output": ""
+    },
+    {
+        "input": "What are multiple ways to interpret a painting of",
+        "output": ""
+    },
+    {
+        "input": "Develop a social system for a colony on Mars that",
+        "output": ""
+    },
+    {
+        "input": "Write a speech advocating for a cause like",
+        "output": ""
+    },
+    {
+        "input": "Describe a new form of art that utilizes",
+        "output": ""
+    },
+    {
+        "input": "What would the news headlines be in a world with",
+        "output": ""
+    },
+    {
+        "input": "Create a fictional map that includes features like",
+        "output": ""
+    },
+    {
+        "input": "How would different cultures celebrate an event like",
+        "output": ""
+    },
+    {
+        "input": "Imagine a day in the life of someone who",
+        "output": ""
+    },
+    {
+        "input": "Discuss the impact of a discovery like",
+        "output": ""
+    },
+    {
+        "input": "What are various conspiracy theories surrounding",
+        "output": ""
+    },
+    {
+        "input": "Create a new musical genre inspired by",
+        "output": ""
+    },
+    {
+        "input": "Write a short story set in a universe where",
+        "output": ""
+    },
+    {
+        "input": "Propose alternative uses for common objects like",
+        "output": ""
+    },
+    {
+        "input": "How would different industries be transformed by",
+        "output": ""
+    },
+    {
+        "input": "Invent a new form of communication that involves",
+        "output": ""
+    },
+    {
+        "input": "What would various philosophers say about a concept like",
+        "output": ""
+    },
+    {
+        "input": "Design a utopian society that values",
+        "output": ""
+    },
+    {
+        "input": "Create a travel guide for a mythical place where",
+        "output": ""
+    },
+    {
+        "input": "Discuss the consequences of a global event like",
+        "output": ""
+    },
+    {
+        "input": "Propose different ways to solve a mystery involving",
+        "output": ""
+    },
+    {
+        "input": "What are various folk remedies for",
+        "output": ""
+    },
+    {
+        "input": "Write a fantasy tale about creatures that",
+        "output": ""
+    },
+    {
+        "input": "How would humans interact with an alien species that",
+        "output": ""
+    },
+    {
+        "input": "Invent a new fashion trend inspired by",
+        "output": ""
+    },
+    {
+        "input": "What are multiple ways to interpret a dream about",
+        "output": ""
+    },
+    {
+        "input": "Design a virtual reality experience that simulates",
+        "output": ""
+    },
+    {
+        "input": "Write an alternative ending to a famous story like",
+        "output": ""
+    },
+    {
+        "input": "Propose innovative housing solutions for a city that",
+        "output": ""
+    },
+    {
+        "input": "How would different artists depict a theme like",
+        "output": ""
+    },
+    {
+        "input": "Create a new social media platform designed for",
+        "output": ""
+    },
+    {
+        "input": "What are various survival strategies in a situation like",
+        "output": ""
+    },
+    {
+        "input": "Write a dialogue between characters from different eras about",
+        "output": ""
+    },
+    {
+        "input": "Discuss the implications of a law that mandates",
+        "output": ""
+    },
+    {
+        "input": "Invent a new type of cuisine that incorporates",
+        "output": ""
+    },
+    {
+        "input": "What are different cultural rituals for",
+        "output": ""
+    },
+    {
+        "input": "Create a series of comic strips about a hero who",
+        "output": ""
+    },
+    {
+        "input": "How would life be altered by a technology like",
+        "output": ""
+    },
+    {
+        "input": "Propose various peacekeeping strategies for a conflict involving",
+        "output": ""
+    },
+    {
+        "input": "What are different interpretations of a cryptic message that says",
+        "output": ""
+    },
+    {
+        "input": "Design a theme park with attractions based on",
+        "output": ""
+    },
+    {
+        "input": "Write a motivational speech for people facing",
+        "output": ""
+    },
+    {
+        "input": "Discuss the potential of renewable energy sources like",
+        "output": ""
+    },
+    {
+        "input": "Invent a fictional holiday and its traditions surrounding",
+        "output": ""
+    },
+    {
+        "input": "What are various legends about a mythical object like",
+        "output": ""
+    },
+    {
+        "input": "Create a guidebook for beginners in a field like",
+        "output": ""
+    },
+    {
+        "input": "How would different countries react to a policy like",
+        "output": ""
+    },
+    {
+        "input": "Propose various startup ideas in a world where",
+        "output": ""
+    },
+    {
+        "input": "What are different ways to approach a challenge like",
+        "output": ""
+    },
+    {
+        "input": "Design an experiment to test a theory about",
+        "output": ""
+    },
+    {
+        "input": "Create a fantasy sport with rules for",
+        "output": ""
+    },
+    {
+        "input": "How would society change if a phenomenon like",
+        "output": ""
+    },
+    {
+        "input": "Write a narrative from the perspective of an AI experiencing",
+        "output": ""
+    },
+    {
+        "input": "Discuss the potential effects of a cosmic event like",
+        "output": ""
+    },
+    {
+        "input": "Invent a new kind of festival that celebrates",
+        "output": ""
+    },
+    {
+        "input": "What are different interpretations of a mysterious symbol that",
+        "output": ""
+    },
+    {
+        "input": "Design a sustainable city that incorporates features like",
+        "output": ""
+    },
+    {
+        "input": "Write an open letter addressing a global issue like",
+        "output": ""
+    },
+    {
+        "input": "Propose various strategies for a company facing a crisis in",
+        "output": ""
+    }
+]
